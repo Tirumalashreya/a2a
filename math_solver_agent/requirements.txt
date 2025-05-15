@@ -1,0 +1,6 @@
+starlette
+httpx
+python-dotenv
+sympy
+uvicorn
+google-generativeai
